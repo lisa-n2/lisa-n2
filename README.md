@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lisa-n2
+- 👋 Hi, I’m @lisa-walekwa
 - 👀 I’m interested in music and art.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on eco-friendly coding projects.
